@@ -12,4 +12,4 @@ Una vez aclarado esto, yo trabajaré en un sistema *Ubuntu 22.04* con conocimien
 
 
 
-[Atrás](/README.MD)
+[Atrás](/apuntes/comandoslinux/README.MD)
